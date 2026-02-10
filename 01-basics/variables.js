@@ -1,7 +1,7 @@
 //var  ES UNA VAR MAS GLOBAL Y VIEJA ES PELIGROSA POR ESO NO SE USA TANTO
 //const no se le puede cambiar el nombre
 const nombre = "santiago"
-var saludo = "Hola"
+var saludo = 2
 console.log(saludo+" "+nombre)
 saludo = "Adios"
 // nombre="Santi" da error porque al ser de tipo const, no se le puede cambiar el valor
