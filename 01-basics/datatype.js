@@ -9,5 +9,5 @@ nombre =null
 console.log(nombre)
 nombre = undefined
 console.log(nombre)
-
+console.log(typeof nombre)
 //es lo  mismo para var
