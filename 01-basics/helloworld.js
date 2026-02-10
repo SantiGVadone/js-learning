@@ -1,0 +1,9 @@
+console.log('Hello world!!!')
+
+//suma de manera diferente los stings y los int
+console.log('5'+'2')
+console.log(5+2)
+console.log(5.2+3)
+
+console.log("Hola"+"Mundo")
+console.log("Hola"+" "+"Mundo")
