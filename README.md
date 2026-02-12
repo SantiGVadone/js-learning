@@ -3,10 +3,9 @@ My JavaScript learning journey
 
 
 ESTOY VIENDO ESTE VIDEO: (ES TODO LO DE LA SEMANA 1 Y UN POCO MAS)
-https://www.youtube.com/watch?v=1glVfFxj8a4&t=15740s
 
-VOY POR EL MINUTO 4:40:30
+https://www.youtube.com/watch?v=1glVfFxj8a4&t=18755s
 
-YA COMPLETE LA PRACTICA DE destructing and spreading 
+TENGO QUE ARRANCAR CON EL MANEJO DE ERRORES 
 
-Al terminar todo deberia hacer un README en condiciones y tambien agregarle un indice numerico a cada archivo asi queda mas ordenado 
+
